@@ -1,5 +1,8 @@
 # Odoo QR Code Generator Module
 
+#Created by Fabian Anguiano
+Feel free to reach out to me if you need help fabiananguiano (@) gmail.com
+
 ## Overview
 This module extends the functionality of Odoo by adding the capability to generate QR codes for products within the `product.template` model. It allows users to generate a QR code based on specific product information, enhancing product identification and integration with other systems.
 

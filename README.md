@@ -1,6 +1,6 @@
 # Odoo QR Code Generator Module
 
-#Created by Fabian Anguiano
+# Created by Fabian Anguiano
 Feel free to reach out to me if you need help fabiananguiano (@) gmail.com
 
 ## Overview
